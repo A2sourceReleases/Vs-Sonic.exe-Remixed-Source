@@ -1,2 +1,4 @@
-# Vs-Sonic.exe-Remixed-Source
-Source code for Vs Sonic.exe Remixed
+# Vs Sonic.exe Remixed
+Hi I hope you enjoy source code because that's what we GOT
+
+have fun and thanks for playing :)
